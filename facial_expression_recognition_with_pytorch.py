@@ -190,10 +190,3 @@ logits = model(image.to(device))
 probs = nn.Softmax(dim=1)(logits)
 
 view_classify(image.squeeze(), probs)
-
-"""# For updates about upcoming and current guided projects follow me on...
-
-Twitter : @parth_AI
-
-Linkedin : www.linkedin.com/in/pdhameliya
-"""
