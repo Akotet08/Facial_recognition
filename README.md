@@ -1,3 +1,3 @@
 # ML-Learning
 
-Simple Learining exercises 
+Simple Facial recogniton Learining exercises 
